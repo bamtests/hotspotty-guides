@@ -1,8 +1,9 @@
 # Hotspotty App -  Quick Start Guide
-**Hotspotty**
-: The all-in-one tool for building the Helium Network. Understand your hotspot data, plan and manage your hotspots and payouts, collaborate with the community and your team, optimize network performance and HNT earnings and much more to come.
 
 `So you've just discovered this cool new app to help manage your helium hotspots and want to give it a try. Here are the basic steps to login, add your wallet and hotspot(s) to a workspace, and verify your wallet so that you can message other owners and collaborate with your community.`
+
+**Hotspotty**
+: The all-in-one tool for building the Helium Network. Understand your hotspot data, plan and manage your hotspots and payouts, collaborate with the community and your team, optimize network performance and HNT earnings and much more to come.
 
 
 # Table of Contents
