@@ -1,14 +1,12 @@
 # Hotspotty App -  Quick Start Guide
 
-`So you've just discovered this cool new app to help manage your helium hotspots and want to give it a try. Here are the basic steps to login, add your wallet and hotspot(s) to a workspace, and verify your wallet so that you can message other owners and collaborate with your community.`
-
 **Hotspotty**
 : The all-in-one tool for building the Helium Network. Understand your hotspot data, plan and manage your hotspots and payouts, collaborate with the community and your team, optimize network performance and HNT earnings and much more to come.
 
 
 # Table of Contents
 
-1. Quick Start - Sign up, add wallet and hotspots to your workspace, and verify your wallet.
+1. Quick Start - Sign up, add wallet(s) and hotspot(s) to your workspace, and verify your wallet(s).
 2. The Map and the Workspace - A Brief Understanding
 3. Using the Map
 4. Using the Workspace
