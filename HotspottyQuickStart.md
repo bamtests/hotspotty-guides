@@ -39,11 +39,11 @@ Here are the basic steps to get signed up and using the workspace.
 
  1. Click on the workspace button from the homepage
 
- ![Workspace](./images/workspaceButton.png)
+    ![Workspace](./images/workspaceButton.png)
 
  2. On the Dashboard tab, click on Add wallet
 
-
+    ![Add Wallet](./images/dashboard_addWallet.png)
 
 
 ## The Map and The Workspace - A Brief Understanding
