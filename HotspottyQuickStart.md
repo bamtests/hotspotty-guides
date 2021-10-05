@@ -1,16 +1,43 @@
 # Hotspotty App -  Quick Start Guide
 
 **Hotspotty**
-: The all-in-one tool for building the Helium Network. Understand your hotspot data, plan and manage your hotspots and payouts, collaborate with the community and your team, optimize network performance and HNT earnings and much more to come.
+: The all-in-one tool for building the Helium Network. Understand your hotspot data, plan and manage your hotspots and payouts, collaborate with the community and your team, optimize network performance and HNT earnings and much more to come.  Hotspotty is a useful tool for any hotspot owner on the Helium network, from owning one to owning thousands of hotspots.
 
 
 # Table of Contents
 
-1. Quick Start - Sign up, add wallet(s) and hotspot(s) to your workspace, and verify your wallet(s).
+1. [Quick Start](#quick-start) - Sign up, add wallet(s) and hotspot(s) to your workspace, and verify your wallet(s).
 2. The Map and the Workspace - A Brief Understanding
 3. Using the Map
 4. Using the Workspace
 
+## Quick Start
+*If you have made it here, you probably have the desire to use Hotspotty to its full potential. You are in the right place. Keeping reading to get started*
+
+Here are the basic steps to get signed up and using the workspace.
+1. [Login with Discord](#login-with-discord)
+2. [Add wallet and hotspots to workspace](#add-wallet-and-hotspots-to-workspace)
+3. Verify wallet so we know that it's you. This gives you messaging and commenting capablilities amongst other things as well!
+
+### Login with Discord
+*Hotspotty connects to discord to utilize it's communication power and allow The People's Network community to talk to one another.*
+
+1. If you do not already have one, please [create a discord account](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started#h_01EYYMPAD6QZ0XR0ZRW00YGB0F). In only takes a few moments.
+2. Go to the [Hotspotty]([(https://app.hotspotty.net/)) homepage and click Sign in with Discord at the top right of the page
+![Hotspotty App - Map](./images/signInWithDiscord.png)
+  **Note: there are many places in the Hotspotty app that will you may navigate you that will ask you to login to Discord, this is just one.*
+3. After being redirected to Discord, [sign in with your Discord credentials]((https://support.discord.com/hc/en-us/articles/360057027354-How-to-Login-to-your-Account)) and authorize the Hotspotty App by clicking the Authorize button as can be seen below.
+
+    ![Authorize Discord](./images/authorizeHotspottyOnDiscord.png)
+4. You will now be redirected back to Hotspotty and should see your discord picture and handle as logged 'YourName's workspace' in the top right corner now:
+    ![logged in](./images/signedInWithDiscord.png)
+
+**Congrats, you are logged in!**
+
+### Add Wallet and Hotspots to workspace
+ > While you can also hotspots individually, the easiest is way to add all hotspots that are connected to one wallet is to simply add the wallet and all the hotspots will be automatically added!
+
+ 1. Click on the workspace button from the homepage
 ## The Map and The Workspace - A Brief Understanding
 *The [Hotspotty app](https://app.hotspotty.net/) has two main tabs on the top left of the page - **Map** and **Workspace***
 ### The Map
